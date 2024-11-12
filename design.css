@@ -1,8 +1,8 @@
 body{
     background-image: url("pexels-asadphoto-457882.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-size: 150px;
+    width: 1200px;
+    height: 600px;
 
 
 }
